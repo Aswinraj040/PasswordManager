@@ -81,8 +81,3 @@ Conclusion
 
 By following this comprehensive guide, you can build, run, and effectively use the password manager application developed with Jetpack Compose. Thank you for giving me this wonderful opportunity to explore jetpack compose and also other new features.
 
-Developer details
-
-Aswin R
-9042046471
-aswinraj040@gmail.com
